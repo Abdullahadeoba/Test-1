@@ -1,43 +1,93 @@
-*{
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-}
-.main{
-    background-color: aliceblue;
+.logo{
+    width: 70%;
 }
 
-.boss{
-    background-color:white;
-    color:black;
-    width: 200px;
-    height: 50px;
-   border-radius: 10px;
-   font-weight: bold;
+.headerbackground{
+    background-color: #f8f9ff;
 }
-.bos{
-    background-color:darkblue;
-    color: #fff;
-    width: 200px;
-    height: 50px;
-   border-radius: 10px;
-   font-weight: bold;
+
+.download{
+    background-color: #0e0a47;
+    border-radius: -10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.head{
-    font-family: Arial;
-    font-size: 20px;
+
+
+.EDOZZIER{
+    background-color: #d0d8fc;
+    border-radius: 5px;
+    width: 220px;
+    margin-top: 160px;
+}
+
+.Smart{
+    color: #1b1642;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 50px;
+}
+
+
+.Management{
+    font-size: 50px;
     font-weight: bolder;
-    gap: 20px;
+    color: #1b1642;
+}
+
+.Software{
+    font-size: 18px;
 }
 
 
-.padd{
-    padding-top: 30px;
-    padding-bottom: 30px;
+.Request :hover{
+    background-color: #babfdc;
+    color: white;
 }
-.up{
-    background: url(/img/Rectangle\ 55rectangle.png);
+
+
+.Demo{
+   background-color: #1b1642;
+   color: white;
 }
-.form{
-    background: url(/img/Rectangle\ 55rectangle.png);
+
+
+.Demo:hover{
+   background-color: rgb(217, 217, 23);
 }
+
+
+.heade{
+    width: 9000vh;
+}
+
+
+.was{
+    color: #0e0a47;
+    font-weight: bold;
+}
+
+
+.built{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.rome{
+    margin-top: 100px;
+    color: #0e0a47;
+}
+
+.have{
+    color: #959c9c;
+}
+
+
+.learn{
+    color: #0e0a47;
+    font-weight: bold;
+}
+
+.learn :hover{
+    color: #2e17dc;
+}
+
+
