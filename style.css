@@ -1,93 +1,43 @@
-.logo{
-    width: 70%;
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.main{
+    background-color: aliceblue;
 }
 
-.headerbackground{
-    background-color: #f8f9ff;
+.boss{
+    background-color:white;
+    color:black;
+    width: 200px;
+    height: 50px;
+   border-radius: 10px;
+   font-weight: bold;
 }
-
-.download{
-    background-color: #0e0a47;
-    border-radius: -10px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.bos{
+    background-color:darkblue;
+    color: #fff;
+    width: 200px;
+    height: 50px;
+   border-radius: 10px;
+   font-weight: bold;
 }
-
-
-.EDOZZIER{
-    background-color: #d0d8fc;
-    border-radius: 5px;
-    width: 220px;
-    margin-top: 160px;
-}
-
-.Smart{
-    color: #1b1642;
-   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-weight: lighter;
-    font-size: 50px;
-}
-
-
-.Management{
-    font-size: 50px;
+.head{
+    font-family: Arial;
+    font-size: 20px;
     font-weight: bolder;
-    color: #1b1642;
-}
-
-.Software{
-    font-size: 18px;
+    gap: 20px;
 }
 
 
-.Request :hover{
-    background-color: #babfdc;
-    color: white;
+.padd{
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
-
-
-.Demo{
-   background-color: #1b1642;
-   color: white;
+.up{
+    background: url(/img/Rectangle\ 55rectangle.png);
 }
-
-
-.Demo:hover{
-   background-color: rgb(217, 217, 23);
+.form{
+    background: url(/img/Rectangle\ 55rectangle.png);
 }
-
-
-.heade{
-    width: 9000vh;
-}
-
-
-.was{
-    color: #0e0a47;
-    font-weight: bold;
-}
-
-
-.built{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-.rome{
-    margin-top: 100px;
-    color: #0e0a47;
-}
-
-.have{
-    color: #959c9c;
-}
-
-
-.learn{
-    color: #0e0a47;
-    font-weight: bold;
-}
-
-.learn :hover{
-    color: #2e17dc;
-}
-
-
