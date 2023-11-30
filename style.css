@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.main{
+    background-color: aliceblue;
+}
+
+.boss{
+    background-color:white;
+    color:black;
+    width: 200px;
+    height: 50px;
+   border-radius: 10px;
+   font-weight: bold;
+}
+.bos{
+    background-color:darkblue;
+    color: #fff;
+    width: 200px;
+    height: 50px;
+   border-radius: 10px;
+   font-weight: bold;
+}
+.head{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bolder;
+    gap: 20px;
+}
+
+
+.padd{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.up{
+    background: url(/img/Rectangle\ 55rectangle.png);
+}
+.form{
+    background: url(/img/Rectangle\ 55rectangle.png);
+}
